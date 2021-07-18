@@ -1,0 +1,29 @@
+student_catalog{
+	display:block;
+
+	padding-bottom: 10px;
+
+	border:  2px solid white;
+
+	border-radius:  25px;
+
+	background-color: #00FFFF;
+
+	padding:  200px;
+    
+
+}
+name{
+	color: 	#8B0000;
+	font-weight: bolder;
+    font-size:30px;
+	font-family:  fantasy;
+
+}
+address{
+
+	color: 	#0000CD;
+	font-weight: bolder;
+    font-size:15px;
+	font-family:  Georgia, serif;
+}

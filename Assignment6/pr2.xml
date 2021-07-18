@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<!DOCTYPE planes_for_sale SYSTEM "pr2.dtd">
+<?xml-stylesheet type="text/css" href="pr2.css"?>
+<planes_for_sale>
+	<ad>
+		<make> &c; </make>
+		<year> 2010 </year>
+		<model> Boeing 747 </model>
+		<color> Blue Glacier </color>
+		<description> The  most popular aircraft Boeing 747 revealed in 21st century, With a tail the height of six story building and wing area bigger than basketball court </description>
+		<price> Rs. 6,75,000 </price>
+		<seller phone = "800-311-4444" email = "www.udaanair@gmail.com"> Udaan Aircraft </seller>
+		<location>
+			<city> Pune </city>
+			<state> Maharashtra </state>
+		</location>
+	</ad>
+	<ad>
+		<make> &p; </make>
+		<year> 1990 </year>
+		<model> Douglas DC-3</model>
+		<color> White and Black </color>
+		<description> The Aircraft that has earned the right to be called as 
+		"Timeless"is here.the worlds fastest aircraft Douglas DC-3 </description>
+		<price> Rs. 9,80,000</price>
+		<seller phone = "300-111-4444" email = ""> Skyline Aircraft </seller>
+		<location>
+			<city> Newyork </city>
+			<state> USA </state>
+		</location>
+	</ad>
+</planes_for_sale>

@@ -1,0 +1,55 @@
+<!DOCTYPE car_catalog SYSTEM "pr1.dtd">
+
+<?xml-stylesheet type = "text/css" href = "pr1.css"?>
+
+<car_catalog>
+<car>
+<year> 2008 </year>
+<make> DODGE </make>
+<model> Dodge Challenger </model>
+<color> Mat Black </color>
+<engine>
+<number_of_cylinders> 16 cylinder
+</number_of_cylinders>
+<fuel_system> multi-port fuel injected </fuel_system>
+</engine>
+<number_of_doors> 2 doors </number_of_doors>
+<transmission_type> 8-Speed Automatic TorqueFlite Unit</transmission_type>
+<accessories radio = "yes"  air_conditioning = "yes"
+    power_windows = "no"
+    power_steering = "yes"
+    power_brakes = "yes" />
+</car>
+<car>
+<year> 2011 </year>
+<make>BUGATTI </make>
+<model> Veyron </model>
+<color> Gold</color>
+<engine>
+<number_of_cylinders> 8 cylinder
+</number_of_cylinders>
+<fuel_system>EURO VI</fuel_system>
+</engine>
+<number_of_doors> 2 door </number_of_doors>
+<transmission_type> 7 speed Automatic </transmission_type>
+<accessories radio = "yes"  air_conditioning = "yes"
+    power_windows = "yes"  power_steering = "yes"
+    power_brakes = "yes" />
+</car>
+<car>
+<year> 1989 </year>
+<make> TOYOTA </make>
+<model> Cressida </model>
+<color> Silver </color>
+<engine>
+<number_of_cylinders> 4 cylinder
+</number_of_cylinders>
+<fuel_system> fuel injected </fuel_system>
+</engine>
+<number_of_doors> 4 doors </number_of_doors>
+<transmission_type> 4 speed manual </transmission_type>
+<accessories radio = "yes"  air_conditioning = "yes"
+    power_windows = "no"  power_steering = "no"
+    power_brakes = "no" />
+</car>
+</car_catalog>

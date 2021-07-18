@@ -1,0 +1,18 @@
+ad{display: block;
+padding-bottom: 20px;
+border:  4px dashed black;
+padding:  200px;
+border-radius : 20px;
+background-color: yellow;
+
+}
+make,model,description,seller{
+    color: red;
+    font-weight:  bolder;
+    font-family:  helvetica;
+
+}
+year, color, price, city, state{
+
+    color:  Blue;
+}

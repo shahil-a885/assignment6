@@ -1,0 +1,39 @@
+<?xml version = "1.0"  encoding = "utf-8"?>
+<!DOCTYPE student_catalog SYSTEM "pr3.dtd">
+<?xml-stylesheet type="text/css" href="pr3.css"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:student_catalog>
+ <xs:student>
+   <xs:name> 
+  	<xs:fname> Rajesh </xs:fname>
+	<xs:lname> Kumar </xs:lname>
+	<xs:mname> S </xs:mname>
+   </xs:name>
+   <xs:address>
+	<xs:houseno> 111 </xs:houseno>
+	<xs:streetname> Ashok Nagara </xs:streetname>
+	<xs:cityname> Mangalore </xs:cityname>
+	<xs:state> Karnataka </xs:state>
+   </xs:address>
+   <xs:marks> 89 </xs:marks>
+   <xs:hobbies> Travelling </xs:hobbies>
+  </xs:student>
+</xs:student_catalog>
+<xs:student_catalog>
+ <xs:student>
+   <xs:name> 
+  	<xs:fname> Vidya  </xs:fname>
+	<xs:lname> Nair</xs:lname>
+	<xs:mname> A </xs:mname>
+   </xs:name>
+   <xs:address>
+	<xs:houseno> 222 </xs:houseno>
+	<xs:streetname> AB Layout </xs:streetname>
+	<xs:cityname> Udupi </xs:cityname>
+	<xs:state> Karnataka </xs:state>
+   </xs:address>
+   <xs:marks> 90 </xs:marks>
+   <xs:hobbies> Reading </xs:hobbies>
+  </xs:student>
+</xs:student_catalog>
+</xs:schema>
